@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Starting Line",
+  "base_artist": "PIGMONZ",
+  "createdAt": "2026-02-11T19:19:54.935394Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Starting Line",
+      "artist": "Keane",
+      "has_synced": true,
+      "path": "select/01_The_Starting_Line_Keane.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Starting Line",
+      "artist": "Keane",
+      "has_synced": true,
+      "path": "select/02_The_Starting_Line_Keane.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Shiny Starting Line",
+      "artist": "YUC'e feat. FUTUREmode",
+      "has_synced": true,
+      "path": "select/03_Shiny_Starting_Line_YUC'e_feat._FUTUREmode.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Shiny Starting Line Feat. FUTUREmode",
+      "artist": "YUC'e",
+      "has_synced": true,
+      "path": "select/04_Shiny_Starting_Line_Feat._FUTUREmode_YUC'e.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Shiny Starting Line",
+      "artist": "YUC'e",
+      "has_synced": true,
+      "path": "select/05_Shiny_Starting_Line_YUC'e.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Starting line",
+      "artist": "日笠陽子",
+      "has_synced": true,
+      "path": "select/06_Starting_line_日笠陽子.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Starting line",
+      "artist": "Hikasa Youko",
+      "has_synced": true,
+      "path": "select/07_Starting_line_Hikasa_Youko.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Starting Line",
+      "artist": "Luke Hemmings",
+      "has_synced": true,
+      "path": "select/08_Starting_Line_Luke_Hemmings.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Starting Line",
+      "artist": "Holy Holy",
+      "has_synced": true,
+      "path": "select/09_Starting_Line_Holy_Holy.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Starting Line",
+      "artist": "Jason Castro",
+      "has_synced": true,
+      "path": "select/10_Starting_Line_Jason_Castro.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Starting Line",
+      "artist": "Cory Wong feat. Emily C. Browning",
+      "has_synced": true,
+      "path": "select/11_Starting_Line_Cory_Wong_feat._Emily_C._Browning.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Starting line",
+      "artist": "Yōko Hikasa",
+      "has_synced": true,
+      "path": "select/12_Starting_line_Yōko_Hikasa.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Starting Line",
+      "artist": "PIGMONZ",
+      "has_synced": false,
+      "path": "select/pl_01_Starting_Line_PIGMONZ.txt"
+    }
+  ]
+}
